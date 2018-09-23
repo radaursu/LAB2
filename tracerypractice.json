@@ -1,0 +1,86 @@
+{
+	"name": [
+		"Lilly",
+		"Sam",
+		"John",
+		"Steve",
+		"Ellen",
+		"Emily",
+		"Thomas",
+		"Gloria"
+	],
+	"occupation": [
+		"police officer",
+		"teacher",
+		"designer",
+		"doctor",
+		"veterinarian",
+		"nurse",
+		"mechanical engineer",
+		"custodian"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"often",
+		"always"
+	],
+	"expecting": [
+		"thinking of",
+		"imagining",
+		"anticipating",
+		"expecting",
+		"dreaming of"
+	],
+	"amazing": [
+		"crazy",
+		"amazing",
+		"shocking",
+		"unbelievable"
+	],
+	"event": [
+		"event",
+		"miracle",
+		"incident",
+		"phenomenon"
+	],
+	"office": [
+		"local restaurant",
+		"park",
+		"conference hallway",
+		"office"
+	],
+	"midnight": [
+		"sunrise",
+		"lunchtime",
+		"around 1:00 PM",
+		"around 3:00 PM",
+		"around 8:30 AM",
+		"dinnertime",
+		"around 11:00 PM"
+	],
+	"dogs": [
+		"dogs",
+		"racoons",
+		"squirrels",
+		"3 year olds",
+		"Sphynx cats",
+		"homeless people",
+		"gravity"
+	],
+	"eating": [
+		"eating",
+		"working",
+		"writing",
+		"drinking coffee"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #amazing# #event#! #eating.capitalize# in the #office# at #midnight# was the right decision. This will change how we #look at# #dogs# forever."
+	],
+	"look at": [
+		"look at",
+		"feed",
+		"approach",
+		"communicate with"
+	]
+}
